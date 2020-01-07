@@ -7,9 +7,10 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kirsten.marie.mcmillan@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Calculates sum of squares
+Description: Calculates sum of squares.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/kirstenmmcm/mypackage3
 BugReports: https://github.com/kirstenmmcm/mypackage3/issues
+RoxygenNote: 6.1.1
