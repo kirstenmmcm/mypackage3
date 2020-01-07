@@ -1,5 +1,5 @@
 Package: mypackage3
-Title: Sum of squares
+Title: Basic statistical functions
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Kirsten",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kirsten.marie.mcmillan@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Calculates sum of squares.
+Description: Calculates sum of squares and standard error
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
